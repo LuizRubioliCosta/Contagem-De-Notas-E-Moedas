@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Contagem de notas e moedas/1.0.0": {
+        "runtime": {
+          "Contagem de notas e moedas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contagem de notas e moedas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
